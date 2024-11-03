@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "RocknRoll One", sans-serif;
+}
+
+span {
+  font-family: inherit;
+  font-weight: inherit;
+}
+
+*.redShadow {
+  box-shadow: 3px 3px 0 0 #b52424;
+}
+
+*.redShadow:hover {
+  trensform: translate(-3px, 3px);
+  box-shadow: 6px 6px 0 0 #b52424;
+}
