@@ -68,7 +68,8 @@ Currently, two official plugins are available:
 <table border="1">
         <tr>
             <th>Critère</th>
-            <th>Contenu</th>
+            <th>Mad Muscles</th>
+            <th>Cercles de la Forme</th>
         </tr>
         <tr>
             <td>Mad Muscles</td>
