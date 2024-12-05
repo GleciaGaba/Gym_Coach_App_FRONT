@@ -72,8 +72,12 @@ Currently, two official plugins are available:
             <th>Cercles de la Forme</th>
         </tr>
         <tr>
-            <td>Mad Muscles</td>
-            <td>Le site propose une variété de programmes personnalisés basés sur l'intelligence artificielle, adaptés à différents niveaux et objectifs. Chaque programme est détaillé avec des descriptions claires des exercices.</td>
+            <td>Design et ergonomie</td>
+            <td>Esthétique moderne,
+ Typographie
+claire, Navigation intuitive,
+Responsive design,
+Appels à l'action.</td>
         </tr>
         <tr>
             <td>Cercles de la Forme</td>
