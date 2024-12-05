@@ -82,49 +82,26 @@ Currently, two official plugins are available:
             <td>Le site présente une gamme de services, notamment des cours collectifs, du coaching personnel et des programmes de remise en forme, adaptés à divers publics.</td>
         </tr>
         <tr>
-            <td>Design et ergonomie</td>
-            <td>Vitesse de chargement rapide.</td>
-        </tr>
-        <tr>
-            <td>Esthétique moderne</td>
-            <td>Responsive.</td>
-        </tr>
-        <tr>
-            <td>Typographie claire</td>
-            <td>Responsive design.</td>
-        </tr>
-        <tr>
-            <td>Navigation intuitive</td>
-            <td>Permet aux membres de réserver des cours en ligne.</td>
-        </tr>
-        <tr>
-            <td>Responsive design</td>
-            <td>Utilise l'IA pour créer des plans d'entraînement.</td>
-        </tr>
-        <tr>
-            <td>Appels à l'action</td>
-            <td>Communauté en ligne.</td>
-        </tr>
-        <tr>
-            <td>Style dynamique</td>
-            <td>Offres et promotions.</td>
-        </tr>
-        <tr>
-            <td>Mise en page variée</td>
-            <td>Vitesse de chargement rapide.</td>
-        </tr>
-        <tr>
-            <td>Navigation claire</td>
-            <td>Optimisation mobile.</td>
-        </tr>
-        <tr>
-            <td>Accessibilité des informations</td>
-            <td>Responsive design.</td>
+            <td>Vitesse de chargement</td>
+            <td>Rapide</td>
+            <td>Rapide</td>
         </tr>
         <tr>
             <td>Optimisation mobile</td>
-            <td>Responsive.</td>
+            <td>Responsive</td>
+            <td>Responsive</td>
         </tr>
+        <tr>
+            <td>Fonctionnalités supplémentaires</td>
+            <td>Utilise l'IA pour créer des plans d'entraînement</td>
+            <td>Permet aux membres de réserver des cours en ligne</td>
+        </tr>
+        <tr>
+            <td>Autres remarques</td>
+            <td>Communauté en ligne</td>
+            <td>Offres et promotions</td>
+        </tr>
+       
     </table>
        
 <h3>Pourquoi Gym Coach App ?</h3>       
