@@ -73,11 +73,8 @@ Currently, two official plugins are available:
         </tr>
         <tr>
             <td>Design et ergonomie</td>
-            <td>Esthétique moderne,
- Typographie
-claire, Navigation intuitive,
-Responsive design,
-Appels à l'action.</td>
+            <td>Esthétique moderne, Typographi claire, Navigation intuitive, Responsive design, Appels à l'action.</td>
+            <td>Style dynamique, Mise en page variée, Navigation claire, Accessibilité des informations, Optimisation mobile.</td>
         </tr>
         <tr>
             <td>Cercles de la Forme</td>
