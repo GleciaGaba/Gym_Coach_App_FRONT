@@ -49,7 +49,7 @@ Currently, two official plugins are available:
 <h3>Stockage d'Informations Personnelles</h3>
 <p>Enregistrez vos progrès en stockant vos données personnelles telles que le poids, les mesures corporelles, et les photos de transformation. Suivez vos résultats au fil du temps pour rester motivé et ajuster vos entraînements en conséquence.</p>
 
-<h2>Étude de la Concurrence : Pourquoi Gym Coach App ?</h2>
+<h2>Étude de la Concurrence</h2>
 <h3>Définition du Benchmarking Concurrentiel</h3>
 <p>Le benchmarking concurrentiel consiste à analyser et comparer les performances d’une entreprise avec celles de ses concurrents directs. L'objectif est de comprendre ce que les concurrents font bien pour en tirer des enseignements et appliquer les meilleures pratiques à son propre site.</p>
 
@@ -58,7 +58,73 @@ Currently, two official plugins are available:
        D’autres sites offrent des programmes trop génériques et ne permettent pas de cibler des zones spécifiques du corps, ce qui peut frustrer ceux qui ont des objectifs précis.
        Le suivi personnalisé est généralement réservé aux abonnés, qu'ils soient en salle de sport ou en forfait payant. Cela souligne l'importance d'une bonne stratégie pour fidéliser les clients.
        En résumé, l'analyse des sites concurrents révèle des éléments clés, comme l'utilisation de l'IA, la nature des programmes et les options de suivi, essentiels pour se démarquer sur le marché des entraînements sportifs.</p>
+<h3>Choix des Concurrents</h3>
+<ul>
+    <li>Mad Muscles : https://madmuscles.com/</li>
+    <li>Cercles de la Forme : https://www.cerclesdelaforme.com/</li>
+</ul>
+
+<h3>Tableau de Benchmarking</h3>
+<table border="1">
+        <tr>
+            <th>Critère</th>
+            <th>Contenu</th>
+        </tr>
+        <tr>
+            <td>Mad Muscles</td>
+            <td>Le site propose une variété de programmes personnalisés basés sur l'intelligence artificielle, adaptés à différents niveaux et objectifs. Chaque programme est détaillé avec des descriptions claires des exercices.</td>
+        </tr>
+        <tr>
+            <td>Cercles de la Forme</td>
+            <td>Le site présente une gamme de services, notamment des cours collectifs, du coaching personnel et des programmes de remise en forme, adaptés à divers publics.</td>
+        </tr>
+        <tr>
+            <td>Design et ergonomie</td>
+            <td>Vitesse de chargement rapide.</td>
+        </tr>
+        <tr>
+            <td>Esthétique moderne</td>
+            <td>Responsive.</td>
+        </tr>
+        <tr>
+            <td>Typographie claire</td>
+            <td>Responsive design.</td>
+        </tr>
+        <tr>
+            <td>Navigation intuitive</td>
+            <td>Permet aux membres de réserver des cours en ligne.</td>
+        </tr>
+        <tr>
+            <td>Responsive design</td>
+            <td>Utilise l'IA pour créer des plans d'entraînement.</td>
+        </tr>
+        <tr>
+            <td>Appels à l'action</td>
+            <td>Communauté en ligne.</td>
+        </tr>
+        <tr>
+            <td>Style dynamique</td>
+            <td>Offres et promotions.</td>
+        </tr>
+        <tr>
+            <td>Mise en page variée</td>
+            <td>Vitesse de chargement rapide.</td>
+        </tr>
+        <tr>
+            <td>Navigation claire</td>
+            <td>Optimisation mobile.</td>
+        </tr>
+        <tr>
+            <td>Accessibilité des informations</td>
+            <td>Responsive design.</td>
+        </tr>
+        <tr>
+            <td>Optimisation mobile</td>
+            <td>Responsive.</td>
+        </tr>
+    </table>
        
+<h3>Pourquoi Gym Coach App ?</h3>       
 <ul>
     <li><strong>Coûts élevés des coachs sportifs :</strong> Les coachs en salle et en ligne sont coûteux, facturant souvent à l'heure.</li>
     <li><strong>Programmes génériques :</strong> Les applications concurrentes offrent des programmes standardisés, sans personnalisation pour la morphologie ou la disponibilité de l'utilisateur.</li>
