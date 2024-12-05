@@ -77,7 +77,8 @@ Currently, two official plugins are available:
             <td>Style dynamique, Mise en page variée, Navigation claire, Accessibilité des informations, Optimisation mobile.</td>
         </tr>
         <tr>
-            <td>Cercles de la Forme</td>
+            <td>Contenu</td>
+            <td>Le site propose une variété de programmes personnalisés basés sur l'intelligence artificielle, adaptés à différents niveaux et objectifs. Chaque programme est détaillé avec des descriptions claires des exercices. </td>
             <td>Le site présente une gamme de services, notamment des cours collectifs, du coaching personnel et des programmes de remise en forme, adaptés à divers publics.</td>
         </tr>
         <tr>
