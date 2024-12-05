@@ -50,6 +50,15 @@ Currently, two official plugins are available:
 <p>Enregistrez vos progrès en stockant vos données personnelles telles que le poids, les mesures corporelles, et les photos de transformation. Suivez vos résultats au fil du temps pour rester motivé et ajuster vos entraînements en conséquence.</p>
 
 <h2>Étude de la Concurrence : Pourquoi Gym Coach App ?</h2>
+<h3>Définition du Benchmarking Concurrentiel</h3>
+<p>Le benchmarking concurrentiel consiste à analyser et comparer les performances d’une entreprise avec celles de ses concurrents directs. L'objectif est de comprendre ce que les concurrents font bien pour en tirer des enseignements et appliquer les meilleures pratiques à son propre site.</p>
+
+<p>J’ai utilisé comme exemple un site dans le domaine des entraînements sportifs. J'ai regardé les sites concurrents  Mad Muscles, Espace Musculation, Cercle de la Forme et Fitness Park pour évaluer leur performance.
+       Certains utilisent l'intelligence artificielle pour créer des programmes d'entraînement, mais l'accès nécessite un abonnement, ce qui peut décourager ceux qui cherchent des options gratuites.
+       D’autres sites offrent des programmes trop génériques et ne permettent pas de cibler des zones spécifiques du corps, ce qui peut frustrer ceux qui ont des objectifs précis.
+       Le suivi personnalisé est généralement réservé aux abonnés, qu'ils soient en salle de sport ou en forfait payant. Cela souligne l'importance d'une bonne stratégie pour fidéliser les clients.
+       En résumé, l'analyse des sites concurrents révèle des éléments clés, comme l'utilisation de l'IA, la nature des programmes et les options de suivi, essentiels pour se démarquer sur le marché des entraînements sportifs.</p>
+       
 <ul>
     <li><strong>Coûts élevés des coachs sportifs :</strong> Les coachs en salle et en ligne sont coûteux, facturant souvent à l'heure.</li>
     <li><strong>Programmes génériques :</strong> Les applications concurrentes offrent des programmes standardisés, sans personnalisation pour la morphologie ou la disponibilité de l'utilisateur.</li>
