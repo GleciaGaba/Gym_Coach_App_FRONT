@@ -100,9 +100,8 @@ Currently, two official plugins are available:
             <td>Autres remarques</td>
             <td>Communauté en ligne</td>
             <td>Offres et promotions</td>
-        </tr>
-       
-    </table>
+        </tr>  
+</table>
        
 <h3>Pourquoi Gym Coach App ?</h3>       
 <ul>
